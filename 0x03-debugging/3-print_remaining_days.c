@@ -1,5 +1,5 @@
 #include <stdio.h>
-#incude "main.h"
+#include "main.h"
 /**
  * print_remaining_days - takes something
  * @month: some
